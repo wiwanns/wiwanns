@@ -1,4 +1,4 @@
-![logo](https://https://github.com/wiwanns/wiwanns/blob/main/Black%20Blue%20and%20Neon%20Pink%20Modern%20Tech%20Electronics%20and%20Technology%20X-Frame%20Banner.png)
+![logo] (https://github.com/wiwanns/wiwanns/blob/main/Black%20Blue%20and%20Neon%20Pink%20Modern%20Tech%20Electronics%20and%20Technology%20X-Frame%20Banner.png)
 <h1 align="center">Hi 👋, I'm Mahendra Pratap Singh</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
