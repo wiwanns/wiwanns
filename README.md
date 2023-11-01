@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahendra Pratap Singh</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-<img align="right">alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--xAAdUtiT--/c_imagga_scale,f_auto,fl_progressive,h_500,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/zu5cr0j2qczswka4wh39.gif">
+<img align="right">alt="coding" width="400" src="![image](https://github.com/wiwanns/wiwanns/assets/140807273/7211d7ea-2eb2-4c15-b573-701266559220)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wiwanns&label=Profile%20views&color=0e75b6&style=flat" alt="wiwanns" /> </p>
 
